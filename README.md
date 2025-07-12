@@ -1,4 +1,4 @@
-# Backend - Node.js + Express (JSON File Storage)
+# Backend - (JSON File Storage)
 
 This is the **backend** for a simple To-Do application.  
 Instead of using a database, it stores tasks in a local JSON file (`todo.json`).
